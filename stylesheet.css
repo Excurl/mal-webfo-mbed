@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'keralalite';
     src: url('keralalite-webfont.woff2') format('woff2'),
-         url('keralalite-webfont.woff') format('woff');
+         url('https://github.com/Excurl/mal-webfo-mbed/blob/main/keralalite-webfont.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
